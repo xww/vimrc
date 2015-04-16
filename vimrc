@@ -52,12 +52,12 @@ endif
 " ===============
 " solarized color
 " ===============
-set background=delek
+set background=light
 set t_Co=256
 let g:solarized_termcolors = 256
 let g:solarized_visibility = "high"
 let g:solarized_contrast = "high"
-colorscheme solarized
+colorscheme delek
 "colorscheme molokai
 
 " Automatic reloading of .vimrc
